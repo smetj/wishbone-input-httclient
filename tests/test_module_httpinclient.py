@@ -22,7 +22,7 @@
 #
 #
 
-from wishbone.module.httpinclient import HTTPInClient
+from wishbone_input_httpclient import HTTPInClient
 from wishbone.actor import ActorConfig
 from wishbone.utils.test import getter
 from gevent import sleep
