@@ -13,7 +13,7 @@
     wishbone.input.httpclient
     =========================
 
-    Version: 0.1.0
+    Version: 1.0.0
 
     A HTTP client doing http requests to pull data in.
     --------------------------------------------------
