@@ -22,7 +22,7 @@
 #
 #
 
-from gevent import monkey; monkey.patch_socket()
+from gevent import monkey; monkey.patch_all()
 import requests
 
 from wishbone import Actor
